@@ -1,7 +1,11 @@
-import "./App.css";
-
+import Example1 from "./Components/Example1";
 function App() {
-  return <div className="App"></div>;
+  return (
+    <>
+      <h2>Using the Local Data</h2>
+      <Example1 />
+    </>
+  );
 }
 
 export default App;
