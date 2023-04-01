@@ -1,0 +1,16 @@
+.label {
+  font-size: 25px;
+  color: rgb(6, 5, 5);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropDown-list select {
+  height: 30px;
+  width: 200px;
+  padding: 3px;
+  margin-top: 3px;
+}
+
+.dropDown-list option {
+  font-size: 15px;
+}
